@@ -1,0 +1,28 @@
+{
+  "name": "catapult",
+  "version": "1.0.0",
+  "description" : "A Highly opinionated React Native boilerplate with batteries included, based off the widely used and battle tested ignite boilerplate",
+  "keywords": ["react-native", "ignite", "boilerplate", "batteries included"],
+  "homepage": "https://github.com/oxlac/Catapult",
+  "bugs": {
+    "url": "https://github.com/oxlac/Catapult/issues",
+    "email": "support@oxlac.com"
+  },
+  "license": "MIT",
+  "author": "Oxlac Tech LLP",
+  "main": "./index.js",
+  "bin": {
+    "catapult": "./index.js"
+  },
+  "files": [],
+  "type": "module",
+  "dependencies": {
+    "@inquirer/prompts": "^5.0.5",
+    "chalk": "^5.3.0",
+    "cli-progress": "^3.12.0",
+    "commander": "^12.1.0",
+    "inquirer": "^9.2.23",
+    "ora": "^8.0.1",
+    "shelljs": "^0.8.5"
+  }
+}
