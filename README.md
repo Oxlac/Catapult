@@ -79,11 +79,13 @@ There are some packages that need to be installed before you can run the project
 
 ### Installation
 
-You can either install Catapult using npm or clone this repository and run the `npm install` command.
+It is suggested that you install Catapult globally using npm. You can do this by running the following command:
 
 ```sh
-npm install
+npm install -g @oxlac/catapult
 ```
+
+You can also install Catapult locally by cloning this repository and running the `npm install` command.
 
 ## Usage
 
