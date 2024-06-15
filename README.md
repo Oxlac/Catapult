@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="../assets/logo.png" alt="Logo" width="100" height="100">
+    <img src="https://github.com/Oxlac/Catapult/blob/main/assets/logo.png?raw=true" alt="Logo" width="100" height="100">
 
   <h3 align="center">Catapult React Native Boilerplate</h3>
 
