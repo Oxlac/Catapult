@@ -1,6 +1,6 @@
 {
   "name": "@oxlac/catapult",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description" : "A Highly opinionated React Native boilerplate with batteries included, based off the widely used and battle tested ignite boilerplate",
   "keywords": ["react-native", "ignite", "boilerplate", "batteries included"],
   "homepage": "https://github.com/oxlac/Catapult",
